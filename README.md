@@ -1,5 +1,8 @@
 # Simple ACE Medical Simulator
 
+### See license for on that stuff
+  The gist of it is do whatever you want
+  
 ### Patients are spawned and cleared from the laptop in-front of the tent
 
 There are three difficulties to choose from: easy, medium, and hard - these may need to be tweaked, let me know.
